@@ -1,5 +1,5 @@
-## Ola.
-meu nome é Santiago Serrão, desenvolvedor Backend Node.js e pós-graduando em engenharia de requisitos de software,  apaixonado pelo ecossistema Amazon web services, completando varias trilhas de estudos elaborados dentro da amazon, adquirindo conhecimentos extraordinarios, assim possivél aplicando em projetos práticos.  
+## Ola! meu nome é Santiago Serrão.
+Atualmente sou desenvolvedor Backend Node.js e pós-graduando em engenharia de requisitos de software,  apaixonado pelo ecossistema Amazon web services, completando varias trilhas de estudos elaborados dentro da amazon, adquirindo conhecimentos extraordinarios, assim possivél aplicando em projetos práticos.  
 <div align="center">
   <a href="https://github.com/santiagoSMC">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoSMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
