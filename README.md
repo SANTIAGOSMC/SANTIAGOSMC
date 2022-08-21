@@ -1,5 +1,5 @@
 ## Ola! meu nome é Santiago Serrão.
-Atualmente sou desenvolvedor Backend Node.js e pós-graduando em engenharia de requisitos de software,  apaixonado pelo ecossistema Amazon Web Services, completando varias trilhas de estudos elaborados dentro da amazon, adquirindo conhecimentos extraordinarios citando SNS, SQS, Serveless, DynamoDB, RDS, S3 e CloudFront, assim possivél aplicando em projetos práticos. 
+Sou desenvolvedor Backend Node.js e pós-graduando em engenharia de requisitos de software,  apaixonado pelo ecossistema Amazon Web Services, completando varias trilhas de estudos elaborados dentro da amazon, adquirindo conhecimentos extraordinarios citando SNS, SQS, Serveless, DynamoDB, RDS, S3 e CloudFront, assim possivél aplicando em projetos práticos. 
 <div align="center">
   <a href="https://github.com/santiagoSMC">
   <img width="37%" src="https://github-readme-stats.vercel.app/api?username=santiagoSMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
