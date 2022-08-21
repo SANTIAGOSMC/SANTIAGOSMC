@@ -3,7 +3,7 @@ Atualmente sou desenvolvedor Backend Node.js e pós-graduando em engenharia de r
 <div align="center">
   <a href="https://github.com/santiagoSMC">
   <img width="34%" src="https://github-readme-stats.vercel.app/api?username=santiagoSMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoSMC&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoSMC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
