@@ -2,8 +2,8 @@
 Atualmente sou desenvolvedor Backend Node.js e pós-graduando em engenharia de requisitos de software,  apaixonado pelo ecossistema Amazon Web Services, completando varias trilhas de estudos elaborados dentro da amazon, adquirindo conhecimentos extraordinarios citando SNS, SQS, Serveless, DynamoDB, RDS, S3 e CloudFront, assim possivél aplicando em projetos práticos. 
 <div align="center">
   <a href="https://github.com/santiagoSMC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagoSMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoSMC&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=santiagoSMC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoSMC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
